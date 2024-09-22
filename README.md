@@ -41,28 +41,41 @@
 ---
 <h2>🛠️ Skills</h2>
 <p>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
+    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </span>
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   </span>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </span>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </span>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </span>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </span>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </span>
-  <span style="display: inline-block; transition: transform 0.2s;">
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </span>
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </span>
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
+    <img src="https://img.shields.io/badge/-IoT-FF7F50?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
+  </span>
+  <span style="display: inline-block; transition: transform 0.2s; margin: 5px;">
+    <img src="https://img.shields.io/badge/-Electronics-008080?style=for-the-badge&logo=electronics&logoColor=white" alt="Electronics" />
+  </span>
 </p>
+
 
 
 ---
