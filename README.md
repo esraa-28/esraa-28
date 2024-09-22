@@ -1,56 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Esraa 👋</h1>
 
-# Hi there, I'm Esraa 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EsraaTaha&color=blue" alt="EsraaTaha Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EsraaTaha&color=blue)
-
-### 🚀 About Me
-I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems, whether it's through smart IoT systems or creative software solutions.
-
----
-
-### 💻 Projects
-Here are a few of my top projects:
-
-- [**Fireboy and Watergirl**](#): A two-player C++ game using SFML.
-- [**Squid Game (NodeMCU, Sensors)**](#): IoT-based project using ultrasonic sensors and mobile app control.
-- [**WatchHub (OOP)**](#): A movie management app with user authentication, movie ratings, and search features.
+<h2 align="center">🚀 About Me</h2>
+<p align="center">I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems, whether it's through smart IoT systems or creative software solutions.</p>
 
 ---
 
-### 🛠️ Skills
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<h2>💻 Projects</h2>
+<ul>
+  <li><a href="#">Fireboy and Watergirl</a>: A two-player C++ game using SFML.</li>
+  <li><a href="#">Squid Game (NodeMCU, Sensors)</a>: IoT-based project using ultrasonic sensors and mobile app control.</li>
+  <li><a href="#">WatchHub (OOP)</a>: A movie management app with user authentication, movie ratings, and search features.</li>
+</ul>
 
 ---
 
-### 📊 GitHub Stats
-![Esraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsraaTaha&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaTaha&layout=compact&theme=radical)](https://github.com/EsraaTaha/github-readme-stats)
-
----
-
-### ✨ Fun Facts
-- 🔭 I’m currently working on an AI-based project.
-- 🌱 I’m learning more about deep learning and neural networks.
-- 🏆 Preparing for the **Egyptian Collegiate Programming Contest (ECPC)**.
+<h2>🛠️ Skills</h2>
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EsraaTaha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/esraa-taha/)
-[![Gmail](https://img.shields.io/badge/Gmail-EsraaTaha-red?style=flat&logo=gmail)](mailto:esraa.taha@gmail.com)
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EsraaTaha&show_icons=true&theme=radical" alt="Esraa's GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaTaha&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 🔥 Fun Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EsraaTaha&theme=radical)
+<h2>📫 Connect with Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/esraa-taha/">
+    <img src="https://img.shields.io/badge/LinkedIn-EsraaTaha-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:esraa.taha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EsraaTaha-red?style=flat&logo=gmail" alt="Gmail" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
-- [**Project Name**](Link): Brief description of the project.
-![Skill](https://img.shields.io/badge/-SkillName-Color?style=flat&logo=SkillLogo&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+---
+
+<h2>🔥 Fun Stats</h2>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaTaha&theme=radical" alt="GitHub Streak" />
+</p>
