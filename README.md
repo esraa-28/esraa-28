@@ -10,21 +10,54 @@
 ---
 
 <h2>💻 Projects</h2>
+
 <ul>
-  <li><a href="#">Fireboy and Watergirl</a>: A two-player C++ game using SFML.</li>
-  <li><a href="#">Squid Game (NodeMCU, Sensors)</a>: IoT-based project using ultrasonic sensors and mobile app control.</li>
-  <li><a href="#">WatchHub (OOP)</a>: A movie management app with user authentication, movie ratings, and search features.</li>
+  <li>
+    <a href="#fireboy-and-watergirl"><b>Fireboy and Watergirl</b></a> - A two-player C++ game using SFML where players navigate challenges based on elemental weaknesses.
+  </li>
+  <li>
+    <a href="#squid-game"><b>Squid Game</b></a> - IoT-based project using ultrasonic sensors and mobile app control with NodeMCU.
+  </li>
+  <li>
+    <a href="#watchhub"><b>WatchHub</b></a> - A movie management app utilizing OOP concepts, offering features like search, rating, and genre-based filtering.
+  </li>
+  <li>
+    <a href="#loan-train"><b>Loan Train</b></a> - A financial project aimed at helping users manage and track loan payments.
+  </li>
+  <li>
+    <a href="#water-equality"><b>Water Equality</b></a> - A project focused on optimizing water usage and promoting equitable distribution using IoT solutions.
+  </li>
+  <li>
+    <a href="#news-management-system"><b>News Management System</b></a> - A system to manage news articles with features for editing, updating, and categorizing content.
+  </li>
+  <li>
+    <a href="#planto"><b>Planto</b></a> - A front-end project designed to help users manage their plant care routine through an intuitive and responsive interface.
+  </li>
+  </li>
 </ul>
 
 ---
 
 <h2>🛠️ Skills</h2>
 <p>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+ <h2>🛠️ Skills</h2>
+<p>
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
 </p>
 
 ---
