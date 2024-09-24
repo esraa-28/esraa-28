@@ -20,10 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="40" alt="AI" />
-  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" height="40" alt="Machine Learning" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
@@ -41,7 +39,7 @@
 
 <h2>📫 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/esraa-taha/">
+  <a href="www.linkedin.com/in/esraa-taha-mahmouds">
     <img src="https://img.shields.io/badge/LinkedIn-EsraaTaha-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:esraataha772@gmail.com">
