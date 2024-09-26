@@ -4,7 +4,6 @@
 <h2>🚀 About Me</h2>
 <p align="center">I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems and problem solving.</p>
 <img src="https://media.tenor.com/7JGo62IED1sAAAAi/chick-laptop.gif" width=250 height =200> 
----
 
 <h2>🛠️ Skills</h2>
 
@@ -22,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
----
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
@@ -32,7 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaTaha&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 <h2>📫 Connect with Me</h2>
 <p align="center">
@@ -44,7 +41,6 @@
   </a>
 </p>
 
----
 
 <h2>🔥 Fun Stats</h2>
 <p align="center">
