@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Esraa 👋</h1>
 
 <p align="center">
-<img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif" width=250>  <img src="" alt="Hello GIF" width="200" />
+<img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif" width=250>  
 </p>
 
 <h2>🚀 About Me</h2>
-<p align="center">I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems, whether it's through smart IoT systems or creative software solutions.</p>
+<p align="center">I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems and problem solving.</p>
 
 ---
 
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="40" alt="AI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
