@@ -3,7 +3,7 @@
 
 <h2>🚀 About Me</h2>
 <p align="center">I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems and problem solving.</p>
-<img src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" width=250 height =100> 
+<img src="https://media.tenor.com/7JGo62IED1sAAAAi/chick-laptop.gif" width=250 height =200> 
 ---
 
 <h2>🛠️ Skills</h2>
