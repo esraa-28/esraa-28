@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Esraa 👋</h1>
 
 <p align="center">
-<img src="[https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif](https://tenor.com/view/a-level-computing-computer-science-a-level-computer-science-a-level-computing-gif-24526921)" width=250>  
+<img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif](https://tenor.com/view/a-level-computing-computer-science-a-level-computer-science-a-level-computing-gif-24526921" width=250>  
 </p>
 
 <h2>🚀 About Me</h2>
