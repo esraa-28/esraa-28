@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Esraa 👋</h1>
 
 <p align="center">
-  <img src="[[/path-to-your-gif/b983db551fb99ed8d3e110868388bdd5.gif](https://www.pinterest.com/pin/668010557235974029/)](https://tenor.com/view/hello-gif-24408873)" alt="Hello GIF" width="200" />
-  <img src="" alt="Hello GIF" width="200" />
+<img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif" width=250>  <img src="" alt="Hello GIF" width="200" />
 </p>
 
 <h2>🚀 About Me</h2>
