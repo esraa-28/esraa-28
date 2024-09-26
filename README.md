@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm Esraa 👋</h1>
+<h1 align="center">Hi there, I'm Esraa 👋</h1><img src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" width=250>  
 
-<p align="center">
-<img src="https://media1.tenor.com/m/wfIBwLubZQQAAAAC/hello-wave.gif" width=250>  
-</p>
 
 <h2>🚀 About Me</h2>
 <p align="center">I’m a passionate Computer Science student at Ain Shams University, specializing in AI and Machine Learning. I love building projects that solve real-world problems and problem solving.</p>
