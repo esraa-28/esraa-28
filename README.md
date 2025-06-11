@@ -44,7 +44,7 @@
 <h2>🧠 Projects I'm Proud Of</h2>
 
 - 🤖 **Tech Acquisition ML:** Predicted deal size and price using classification and regression models with advanced preprocessing, feature engineering, and real-time API deployment.
-- 🎙️ **Speaker Identification System (c# / DTW):** Identifies speakers using audio pattern matching with dynamic time warping and optimized pruning.
+- 🎙️ **Speaker Identification System (C# / DTW):** Identifies speakers using audio pattern matching with dynamic time warping and optimized pruning.
 - 🧵 **FOS (FCIS Operating System):** Built a lightweight OS using C and Bochs emulator with core features like process scheduling, dynamic memory allocation, shared memory for IPC, system calls, and fault handling for memory violations.
 - 🎬 **WatchHub (OOP):** A movie app with search, ratings, watch history, genre filters, and subscription logic built using object-oriented principles.
 - 🦑 **Squid Game (IoT / NodeMCU / MIT App):** Real-life version of “Red Light, Green Light” using ultrasonic sensors, servo motor, and mobile app.
