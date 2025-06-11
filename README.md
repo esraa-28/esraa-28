@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9ddf613-258a-4fa4-b91e-3edea49bb54e)<h1 align="center">Hi there, I'm Esraa 👋</h1>
+<h1 align="center">Hi there, I'm Esraa 👋</h1>
 
 <p align="center"> 
   <i>Turning ideas into code and code into impact 🚀</i>
