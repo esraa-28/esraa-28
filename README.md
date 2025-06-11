@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/7JGo62IED1sAAAAi/chick-laptop.gif" width="250" height="200" alt="Working Chick" />
+  <img src="https://tenor.com/view/cat-gif-26614537" width="250" height="200" alt="Working Chick" />
 </p>
 
 ---
