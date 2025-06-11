@@ -41,8 +41,3 @@
   </a>
 </p>
 
-
-<h2>🔥 Fun Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaTaha&theme=radical" alt="GitHub Streak" />
-</p>
