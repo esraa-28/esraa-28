@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Esraa 👋</h1>
 
-<p align="center"> 
+<p align="center">
   <i>Turning ideas into code and code into impact 🚀</i>
 </p>
 
@@ -11,7 +11,6 @@
   I'm a Computer Science student at Ain Shams University with a strong passion for Artificial Intelligence, Machine Learning, and solving real-world problems through technology. I enjoy turning ideas into practical solutions, whether it’s building smart IoT systems, crafting intuitive front-end experiences, or training ML models on real datasets. I'm always learning, experimenting, and exploring new tools to level up my skills and make an impact.
 </p>
 
-
 <p align="center">
   <img src="https://media1.tenor.com/m/YrDIuqSUV48AAAAd/cat.gif" width="250" height="200" alt="Working Chick" />
 </p>
@@ -21,21 +20,19 @@
 <h2>🔧 Skills & Tools</h2>
 
 <p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" height="40" alt="Scala" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 
-  <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="40" alt="AI" />
 </p>
 
@@ -56,7 +53,7 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaTaha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-taha&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
